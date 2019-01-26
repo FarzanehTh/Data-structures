@@ -46,7 +46,7 @@ print(list(filter(func, [2, 3])))
 print(list(map(some_f, lst)))
 lst = [1, 2, 3]
 it = iter(enumerate(lst))
-so then I can call the elemts in it by two ways:
+# so then I can call the elemts in it by two ways:
 #1.
 while it.__next__():
     print(1)
