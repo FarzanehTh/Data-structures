@@ -1,7 +1,7 @@
 
 import numpy as np
 
-## some coomon tricks in python:
+## some points frequently used in python:
 
 # 1.*** reverse indexing for a str of len 10:range([start], stop[, step])
 
