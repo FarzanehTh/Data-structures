@@ -69,7 +69,7 @@ def __eq__(self, other):
 
 ###10. round a number num to the neaset 1000 from above
 rounded_num = math.ceil(value / 1000) * 1000
-# form below
+# from below
 rounded_num = math.floor(value / 1000) * 1000
 
 ## 11. deiffernce between isnumeric and ...
